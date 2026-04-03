@@ -1,8 +1,8 @@
 {
-    "generated_at": "2026-03-30 15:16:51",
+    "generated_at": "2026-04-03 16:45:14",
     "source_file": "logs/server.log",
-    "total_logs": 2,
-    "info": 1,
+    "total_logs": 1,
+    "info": 0,
     "warning": 1,
     "error": 0,
     "status": "NORMAL"
